@@ -1,4 +1,4 @@
-## Population mortality before and during crisis in Yemen: a geospatial and statistical analysis of cemetery data
+## Population mortality before and during armed conflict in Yemen: geospatial and statistical analysis of cemetery data
 ### Explanation of R scripts and input datasets
 
 -----------------------
